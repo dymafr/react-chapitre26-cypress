@@ -1,0 +1,10 @@
+[
+  {
+    "name": "test fixture 1",
+    "done": false
+  },
+  {
+    "name": "test fixture 2",
+    "done": true
+  }
+]
